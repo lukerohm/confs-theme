@@ -1,10 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
+title: Luke Rohm
+email: lukerohm1@gmail.com
+description: Awesome Nuff Said
 baseurl: ""
 url: ""
-twitter_username: 
+twitter_username: lukerohm
 avatar: "" # Set footer avatar
 paginate: 3
 
