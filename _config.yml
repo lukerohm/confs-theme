@@ -5,7 +5,7 @@ description: Awesome Nuff Said
 baseurl: ""
 url: "www.lukerohm.com"
 twitter_username: lukerohm
-avatar: "" # Set footer avatar
+avatar: "https://pbs.twimg.com/profile_images/378800000107218810/7a0567deef3a3b24108194d26e655d8a.jpeg" # Set footer avatar
 paginate: 3
 
 # Build settings
