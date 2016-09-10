@@ -19,7 +19,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
+      author: "Luke Rohm" # Set default author name
       categories: "cats"
       layout: "post"
       comments: true
